@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+// git test
+// 2th commit
+
+
+>>>>>>> parent of 32d1fb3 (thirdth commit)
 /* 
  * 二叉搜索树
  * 
