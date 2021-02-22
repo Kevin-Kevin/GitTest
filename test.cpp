@@ -1,7 +1,3 @@
-// git test
-// 2th commit
-// 3th commit
-
 /* 
  * 二叉搜索树
  * 
