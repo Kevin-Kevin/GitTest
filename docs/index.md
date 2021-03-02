@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[summary](SYMMARY.md)
+
 
 You can use the [editor on GitHub](https://github.com/Kevin-Kevin/GitTest/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
