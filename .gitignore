@@ -1,6 +1,5 @@
-*
+!docs/
 
 !.cpp
 
 !.gitignore
-!/docs
